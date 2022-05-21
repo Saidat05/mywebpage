@@ -1,0 +1,187 @@
+html,
+body {
+   margin: 0;
+  height: 100%;
+}
+
+section.welcome-page {
+  
+  
+  background-image: url(https://cdn1.etokavkaz.ru/width/1200_4ce85301/etokavkaz/2/f/2f0b229fe32f670bd162bfffa9684ccbf3c879ec.jpg);
+  width: 100%;
+  height: 100vh;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-attachment:'' ;
+  background-size: cover;
+  
+}
+
+.c-site-header {
+  text-align: right;
+  color:#480000;
+  font-size: 25px;
+  display: block;
+}
+
+iframe {
+  margin-left:180px; 
+  /*margin: 30px 30px 30px 160px ;*/
+ padding: 10px 10px;
+  display: block;
+}
+section.about-me{
+  background-color: #556B2F;
+  width: 100%;
+  
+  height: 100%;
+}
+section#photos{
+  background-color: #8FBC8F;
+   margin-top: -20px;
+}
+  
+.sea{
+ display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 60%;
+  box-shadow: 0 10px 20px;
+}
+
+.paragraph {
+margin: auto;
+  padding: 10px 20px;
+}
+.c-site-footer {
+color: pink;
+  margin: '';
+  padding: 50px;
+  
+}
+
+.footer{
+background-color: #6B8E23;
+margin-top: 0px;}
+
+.it-is-me {
+  text-align: center;
+  color: red;
+}
+
+#about-me {
+  text-align: center;
+  margin-top: -30px;
+  padding: 20px;
+}
+.some-photos {
+  margin-bottom: 50px;
+}
+#village{
+  margin: 30px 100px 10px 300px;
+  display: block;
+}
+#derbent{
+  margin: 30px 100px 30px 200px;
+}
+
+#caspian-sea{
+/*   margin: 30px 200px 10px 300px; */
+  display: block;
+  text-align: center;
+}
+nav {
+  width: 860px;
+  margin: 0 auto;
+}
+nav:before{
+  content:'';
+  display: block;
+  height: 50px;
+  width: 100%;
+  background: #A52A2A;
+  position: absolute;
+  left: 0;
+  z-index: -1;
+  box-shadow: 0 2px 0 rgb(0 0 0 / 40%);
+  top: 0;
+  left:0;
+ 
+}
+
+ul {
+  margin: 0;
+  padding:0;
+  list-style: none;
+  height: 50px;
+ 
+ 
+}
+ul li{
+  float: left;
+
+}
+ul li a{
+  color: white;
+  display: block;
+  height: 50px;
+  padding: 0 30px;
+  text-transform: uppercase;
+  text-decoration: none;
+  line-height: 50px;
+ 
+}
+ul li a:hover{
+ background: #DEB887;
+ 
+}
+.photos1 {
+ width:400px;
+ margin-top:40px  ;
+ margin-left:50px;
+box-shadow: 5px 10px 8px  #556B2F;
+}
+#right {
+float:right;
+width:40%;
+margin-bottom: 100px;
+  margin-top: 70px;
+  margin-right:50px;
+font-size: 20px;
+  font-weight: bold;
+}
+ 
+
+ .photos2 {
+ width:400px;
+ margin-top: 50px ;
+   margin-bottom: 100px;
+ margin-right:50px;
+ float: right;
+ box-shadow: 5px 10px 8px  #556B2F;
+     
+}
+#left {
+  float: right;
+  margin-top:80px;
+  margin-right: 20px;
+  padding-right:'' ;
+  font-size: 20px;
+  font-weight: bold;
+}
+   
+  .photos3 {
+ width:400px;
+ margin-top:200px  ;
+ margin-left:50px;  
+ margin-bottom: 20px;
+ box-shadow: 5px 10px 8px  #556B2F;
+} 
+#right2{
+ float: right;
+  margin-bottom:200px;
+  padding-right:50px ;
+  font-size: 20px;
+  font-weight: bold;
+
+}
